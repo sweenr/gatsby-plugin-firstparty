@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-plugin-firstparty",
+  "version": "1.0.0",
+  "author": "Richard Sween <richard@richardsween.com>",
+  "bugs": {
+    "url": "https://github.com/sweenr/gatsby-plugin-firstparty/issues"
+  },
+  "homepage": "https://github.com/sweenr/gatsby-plugin-firstparty#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "firstparty",
+    "analytics"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/sweenr/gatsby-plugin-firstparty"
+}
